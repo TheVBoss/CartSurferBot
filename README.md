@@ -21,8 +21,9 @@ pip install mss numpy keyboard pyautogui opencv-python
 5. Press Q to stop and ESC to terminate!
 
 ## COMMON ISSUES
-1. If your code editor is showing issues with not being able to open .png files. Run the code in DEBUGGING MODE or with ADMINISTRATOR!
-2. Report to me if there is more!
+1. If your code editor is showing issues with not being able to open .png files. Run the code in DEBUGGING MODE or with ADMINISTRATOR! (Typically happens in VS CODE)
+   or just run with Python 3.11 DIRECTLY!
+3. Report to me if there is more!
 
 
 
