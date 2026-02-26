@@ -1,5 +1,6 @@
 # CartSurferBot
 Cart Surfer Bot for Club Penguin Journey
+Up to 800-1100 Coins with all stamp bonuses! (Getting all stamps in a minigame gives the player a 2x multiplier on their final coins earned)
 
 Made: Feb 25, 2026
 
@@ -19,6 +20,12 @@ pip install mss numpy keyboard pyautogui opencv-python
 3. Run the script and ensure you have the Club Penguin window fully visible.
 4. Press M to start!
 5. Press Q to stop and ESC to terminate!
+
+## BOT 1 VS BOT 2
+Both bots continuously alternate between Backflips and Sideflips. 
+Both bots grind and turn every corner.
+Bot 1: Will not crash
+Bot 2: Will crash, follows strategy to generate most coins outlined here: https://www.reddit.com/r/ClubPenguin/comments/asekww/cart_surfer_getting_1000_coins_in_one_round/
 
 ## COMMON ISSUES
 1. If your code editor is showing issues with not being able to open .png files. Run the code in DEBUGGING MODE or with ADMINISTRATOR! (Typically happens in VS CODE)
