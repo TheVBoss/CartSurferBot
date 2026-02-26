@@ -27,9 +27,9 @@ Both bots continuously alternate between Backflips and Sideflips.
 
 Both bots grind and turn every corner.
 
-Bot 1: Will not crash
+Bot 1: Will not crash, less coins
 
-Bot 2: Will crash, follows strategy to generate most coins outlined here: https://www.reddit.com/r/ClubPenguin/comments/asekww/cart_surfer_getting_1000_coins_in_one_round/
+Bot 2: Will crash, more coins, follows strategy to generate most coins outlined here: https://www.reddit.com/r/ClubPenguin/comments/asekww/cart_surfer_getting_1000_coins_in_one_round/
 
 ## COMMON ISSUES
 1. If your code editor is showing issues with not being able to open .png files. Run the code in DEBUGGING MODE or with ADMINISTRATOR! (Typically happens in VS CODE)
