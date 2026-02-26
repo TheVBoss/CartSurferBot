@@ -24,8 +24,11 @@ pip install mss numpy keyboard pyautogui opencv-python
 
 ## BOT 1 VS BOT 2
 Both bots continuously alternate between Backflips and Sideflips. 
+
 Both bots grind and turn every corner.
+
 Bot 1: Will not crash
+
 Bot 2: Will crash, follows strategy to generate most coins outlined here: https://www.reddit.com/r/ClubPenguin/comments/asekww/cart_surfer_getting_1000_coins_in_one_round/
 
 ## COMMON ISSUES
