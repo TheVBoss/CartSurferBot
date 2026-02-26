@@ -1,5 +1,6 @@
 # CartSurferBot
 Cart Surfer Bot for Club Penguin Journey
+
 Up to 800-1100 Coins with all stamp bonuses! (Getting all stamps in a minigame gives the player a 2x multiplier on their final coins earned)
 
 Made: Feb 25, 2026
