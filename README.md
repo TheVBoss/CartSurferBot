@@ -1,6 +1,6 @@
 # CartSurferBot
 
-##WARNING: Run this with 100% brightness and battery saver off!!!
+## WARNING: Run this with 100% brightness and battery saver off!!!
 
 Cart Surfer Bot for Club Penguin Journey
 
