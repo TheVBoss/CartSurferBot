@@ -1,4 +1,7 @@
 # CartSurferBot
+
+##WARNING: Run this with 100% brightness and battery saver off!!!
+
 Cart Surfer Bot for Club Penguin Journey
 
 Up to 800-1100 Coins with all stamp bonuses! (Getting all stamps in a minigame gives the player a 2x multiplier on their final coins earned)
@@ -19,8 +22,9 @@ pip install mss numpy keyboard pyautogui opencv-python
 1. Launch Club Penguin Journey, and make sure the window is taking up the majority of the screen.
 2. Head inside the mine, and don't move anywhere.
 3. Run the script and ensure you have the Club Penguin window fully visible.
-4. Press M to start!
-5. Press Q to stop and ESC to terminate!
+4. Ensure you run with 100% brightness and battery saver off!
+5. Press M to start! 
+6. Press Q to stop and ESC to terminate!
 
 ## BOT 1 VS BOT 2
 Both bots continuously alternate between Backflips and Sideflips. 
