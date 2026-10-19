@@ -335,12 +335,12 @@ with mss.mss() as sct:
                             if direction:
                                 if IntentionalCrash(sct):
                                     if subtract <= 1.2:
-                                        time.sleep(1.2-subtract)
+                                        time.sleep(0.7-subtract)
                                     GrindRight()
                             elif not direction:
                                 if IntentionalCrash(sct):
                                     if subtract <= 1.2:
-                                        time.sleep(1.2-subtract)
+                                        time.sleep(0.7-subtract)
                                     GrindLeft()
 
                         # If sign detected normally, it flips!
