@@ -252,7 +252,7 @@ with mss.mss() as sct:
                         if count > 0:
                             count = 0
                             if subtract <= 1.2:
-                                time.sleep(1.2-subtract)
+                                time.sleep(0.7-subtract)
                             if direction:
                                 GrindRight()
                             else:
